@@ -16,7 +16,7 @@ library(reshape2)
 library(zoo)
 
 ##Importing Data
-##CHANGE TO NEW PATH
+##CHANGE TO NEW PATH & replace with current data pull
 setwd("C:/Users/hjkar/Documents/School/1-UMass/PERI_RA/Data/ProPreqin Data/07_01_24")
 preqin_investors <- read_csv("Preqin Investors Full Pull.csv")
 
